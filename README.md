@@ -1,32 +1,20 @@
-## Hi 👋 I'm Harshal Wadke
-- Welcome to my GitHub profile!
-- As a data scientist, this is where I showcase my skills, projects, and contributions in the field of data science.
-- Here, you'll find a collection of my work, ranging from data analysis and visualization to machine learning models and data-driven solutions.
+<h1 align="center">Hi 👋, I'm Harshal Wadke</h1>
+<h3 align="center">Welcome to my GitHub profile! As a data scientist, this is where I showcase my skills, projects, and contributions in the field of data science. Here, you'll find a collection of my work, ranging from data analysis and visualization to machine learning models and data-driven solutions.</h3>
 
-## Projects
-In this repository, you will find a variety of projects that demonstrate my abilities as a data scientist. Each project comes with a detailed explanation, code, presentation and report. Some of the projects you can explore include:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- Project 1: Employee Attrition Analysis
-- Project 2: Bank Churn Analysis
-Feel free to explore the project repositories, review the code, and provide feedback or suggestions. I am always open to learning and improving, so any constructive input is greatly appreciated.
+- 🌱 I’m currently learning **Data Analytics with Machine Learning**
 
-## Skills
-- Programming Languages: Python, SQL
-- Data Manipulation and Analysis: Pandas, NumPy, Excel
-- Data Visualization: Matplotlib, Seaborn
-- Machine Learning: Scikit-learn
-If you have any suggestions for projects or collaboration opportunities, please feel free to reach out to me. I am always looking for new and exciting ways to expand my knowledge and contribute to the data science community.
+- 💬 Ask me about **Data Science, Machine Learning, AI**
 
-## Contact Information
--You can contact me through the following channels:
+- 📫 How to reach me **harshalwadke26@gmail.com**
 
-- Email: harshalwadke26@gmail.com
-- LinkedIn: https://www.linkedin.com/in/wadkeharshal/
-- Check my Resume: https://drive.google.com/file/d/1uUvCtnrEZdIelPNx6edr1JPEs-ywiNwZ/view?usp=sharing
-Please don't hesitate to reach out if you have any questions or would like to discuss potential collaborations or opportunities.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uUvCtnrEZdIelPNx6edr1JPEs-ywiNwZ/view?usp=sharing](https://drive.google.com/file/d/1uUvCtnrEZdIelPNx6edr1JPEs-ywiNwZ/view?usp=sharing)
 
-Thank you for visiting my GitHub profile, and I look forward to connecting with you!
-<!---
-WHarshal/WHarshal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/wadkeharshal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wadkeharshal/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
