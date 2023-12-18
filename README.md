@@ -36,8 +36,9 @@
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img png="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image_view_fullscreen" alt="tableau" width="40" height="40"/> 
   </a>
 </p>
 
