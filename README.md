@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshalwadke26@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1LFZ0ItEQvzD-ocAaQZ4Pw7cYylJnceAW/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1nM7GFf0C_cjkFYCd4QMXm49R5C9KQkNX/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/wadkeharshal/" target="_blank">
